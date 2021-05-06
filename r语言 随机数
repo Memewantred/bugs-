@@ -1,0 +1,4 @@
+# 如果想要产生一定范围内的随机数
+runif(n,min,max)
+# 如果想要产生一定范围内的整数
+sample(min:max,size = 1)
